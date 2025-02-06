@@ -1,0 +1,16 @@
+C:\Users\alyad\OneDrive\Bureau\ecoute\obj\Debug\ecoute.csproj.AssemblyReference.cache
+C:\Users\alyad\OneDrive\Bureau\ecoute\obj\Debug\ecoute.EleveDetails.resources
+C:\Users\alyad\OneDrive\Bureau\ecoute\obj\Debug\ecoute.Eleves.resources
+C:\Users\alyad\OneDrive\Bureau\ecoute\obj\Debug\ecoute.Form1.resources
+C:\Users\alyad\OneDrive\Bureau\ecoute\obj\Debug\ecoute.Inscription.resources
+C:\Users\alyad\OneDrive\Bureau\ecoute\obj\Debug\ecoute.Paiement.resources
+C:\Users\alyad\OneDrive\Bureau\ecoute\obj\Debug\ecoute.PaymentHistory.resources
+C:\Users\alyad\OneDrive\Bureau\ecoute\obj\Debug\ecoute.Properties.Resources.resources
+C:\Users\alyad\OneDrive\Bureau\ecoute\obj\Debug\ecoute.Somgande.resources
+C:\Users\alyad\OneDrive\Bureau\ecoute\obj\Debug\ecoute.csproj.GenerateResource.cache
+C:\Users\alyad\OneDrive\Bureau\ecoute\obj\Debug\ecoute.csproj.CoreCompileInputs.cache
+C:\Users\alyad\OneDrive\Bureau\ecoute\bin\Debug\ecoute.exe.config
+C:\Users\alyad\OneDrive\Bureau\ecoute\bin\Debug\ecoute.exe
+C:\Users\alyad\OneDrive\Bureau\ecoute\bin\Debug\ecoute.pdb
+C:\Users\alyad\OneDrive\Bureau\ecoute\obj\Debug\ecoute.exe
+C:\Users\alyad\OneDrive\Bureau\ecoute\obj\Debug\ecoute.pdb
